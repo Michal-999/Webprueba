@@ -1,0 +1,88 @@
+body {
+  margin: 0cm;
+  background-color: #ececec;
+}
+.navbar {
+  background-color: rgb(236 236 236);
+  
+}
+.nav-link{
+  color: black;
+}
+.cover {
+  padding-top: 40px;
+  height: 200px;
+  background-color: #ececec;
+}
+.container {
+  top: 20px;
+  bottom: 200px;
+}
+.containerbotbot {
+  height: 100px;
+  background-color: #ececec;
+}
+.containerbot {
+  background-color: #303030;
+  .containerprecio: {
+    background-color: #ececec;
+  }
+}
+.containertop {
+  background-color: #ececec;
+  height: 44px;
+}
+.sinopsis {
+  bottom: 20px;
+  padding-top: 20px;
+  color: #ececec;
+}
+.poemas{
+  letter-spacing: .2rem;
+}
+.entrelasramasylavida{
+  padding-top: 50px;
+  color: #39575A;
+}
+.poemaentreramas{
+  font: 12px;
+  display:inline-block;
+}
+.containerblank1 {
+  background-color: #ececec;
+  top: 100px;
+}
+.precio {
+  padding-top: 15px;
+}
+.botoncomprar {
+  padding-top: 50px;
+  padding-bottom: 40px;
+}
+a.btn {
+  padding: 5px 6px;
+  border: 1px outset buttonborder;
+  border-radius: 3px;
+  color: buttontext;
+  background-color: buttonface;
+  text-decoration: none;
+  background-color: #8b0000;
+  color: #ffffff;
+}
+.h1 {
+  font-family: "Lulo Clean", sans-serif, "Lulo Clean One Bold", "Didot", "Avenir",
+    "Times New Roman", "League Spartan";
+}
+
+.league-spartan-<uniquifier > {
+  font-family: "League Spartan", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.empty-box {
+  width: 200px; /* Width of the box */
+  height: 100px; /* Height of the box */
+  border: 2px solid black; /* Border style */
+  background-color: white; /* Background color */
+}
