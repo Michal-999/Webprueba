@@ -24,10 +24,12 @@ body {
 }
 .containerbot {
   background-color: #303030;
-  .containerprecio: {
+}
+
+.containerprecio: {
     background-color: #ececec;
   }
-}
+
 .containertop {
   background-color: #ececec;
   height: 44px;
@@ -53,11 +55,11 @@ body {
   top: 100px;
 }
 .precio {
-  padding-bottom: 40px;
+  padding-top: 40px;
 }
 .botoncomprar {
-  padding-top: 50px;
-  padding-bottom: 40px;
+  padding-top: 0px;
+  padding-bottom: 20px;
 }
 a.btn {
   padding: 5px 6px;
@@ -85,4 +87,18 @@ a.btn {
   height: 100px; /* Height of the box */
   border: 2px solid black; /* Border style */
   background-color: white; /* Background color */
+}
+.containerpreciobot {
+  background-color: #303030;
+  max-width:100%;
+}
+.bookimageprecio {
+  padding-top: 15px;
+  padding-bottom:30px;
+}
+.contacto {
+  padding-top: 30px;
+  Padding-bottom:30px;
+  background-color: #1e1d1f;
+  color:#ececec;
 }
